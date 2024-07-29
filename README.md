@@ -1,6 +1,6 @@
 -  hi, im @jfryusef
 -  im interested in graphic & web design
-- im currently learning indesign
+- im currently learning ui/ux design
 - reach me on jfryusef.wtf/about
 
 <!---

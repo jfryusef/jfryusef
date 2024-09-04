@@ -1,7 +1,7 @@
 # about me
 hello! im yusef;<br>
 im a designer; graphic and web designer. my works are [here](https://www.jfryusef.wtf/projects/) and im currently learning ui/ux.
-<br>i was born in 2002 and when i graduated from allameh helli high school in tehran, i chose to be a teacher. i have had the experience of supporting the website of the baran magazine and currently im a graphic designer at the donyae web startup.<br>
+<br>i was born in 2002 and when i graduated from allameh helli high school in tehran, i chose to be a teacher. i have had the experience of supporting the website of the baran magazine and currently im a graphic designer at [the donyae web startup](https://donyaeweb.ir/).<br>
 i consider myself a geek and im interested in the concept of open source (beyond the world of software).<br>
 sometimes i read comic books and i write in my persian blog [here](https://www.jfryusef.wtf/) just for fun =)
 

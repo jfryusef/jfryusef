@@ -2,7 +2,7 @@
 hello! im yusef;<br>im currently working on a github powered blog.<br>im learning ui/ux right now.
 
 
-##  socials:
+#  socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jfryusef4th) 
 
 # tech stack:
@@ -11,12 +11,6 @@ hello! im yusef;<br>im currently working on a github powered blog.<br>im learnin
 ![](https://github-readme-stats.vercel.app/api?username=jfryusef&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jfryusef&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jfryusef&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### top contributed repo
-![](https://github-contributor-stats.vercel.app/api?username=jfryusef&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=jfryusef&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!---
 jfryusef/jfryusef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

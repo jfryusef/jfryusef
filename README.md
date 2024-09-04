@@ -13,9 +13,6 @@ sometimes i read comic books and i write in my persian blog [here](https://www.j
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jfryusef&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jfryusef&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-# email
-**jfryusef [at] gmail [dot] com**
-
 # support
 thank you for your interest in financial support =)<br>
 https://www.jfryusef.wtf/support/
